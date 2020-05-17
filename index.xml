@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://Masahero0123.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 May 2020 18:13:27 +0900</lastBuildDate>
+    
+	<atom:link href="http://Masahero0123.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello2</title>
+      <link>http://Masahero0123.github.io/hello2/</link>
+      <pubDate>Sat, 16 May 2020 18:13:27 +0900</pubDate>
+      
+      <guid>http://Masahero0123.github.io/hello2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>テスト記事</title>
+      <link>http://Masahero0123.github.io/hello/</link>
+      <pubDate>Sat, 16 May 2020 18:10:13 +0900</pubDate>
+      
+      <guid>http://Masahero0123.github.io/hello/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
